@@ -1,3 +1,34 @@
+
+# Pokemon api React
+
+Esse projeto simples trata-se de consumir os dados de uma api da pokeapi e exibi-los na tela.
+
+
+É bem simples, mas pretendo trazer versões melhoradas deste projeto.😁
+
+
+
+
+
+
+## Projeto:![Pokemon-api](https://github.com/Galux17/PokeApi/assets/103261889/f28e0881-40b4-4859-b52c-609dad3ea727)
+
+
+
+
+## Objetivos:
+Tô praticando e aperfeiçoando minhas habilidades no React e no consumo de apis de dados.
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
