@@ -1,0 +1,46 @@
+.Pokemons {
+    margin-top: 40px;
+    font-size: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    margin-bottom:15px ;
+    
+
+}
+
+
+.pokemon-itens{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+.weight{
+    font-size: 14px;
+    color: #FFF;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    border: 1px solid purple;
+    background-color: coral;
+    border-radius: 10px;
+}
+
+.name{
+    color: #FFF;
+    background-color: crimson;
+    border-radius: 5px;
+}
+
+.img{
+    background-color: tomato;
+    border-radius: 1px;
+    
+}
+
+.type{
+    background-color: tomato;
+}

@@ -1,0 +1,16 @@
+.pokemon-imagem{
+    max-width: 65px;
+} 
+
+.fundo-pokemon{
+    background-color: brown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.titulo{
+    color: aliceblue;
+    font-size: 25px;
+
+}
